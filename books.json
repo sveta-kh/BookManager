@@ -1,0 +1,48 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "book_type": "printed book"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "year": 1945,
+        "book_type": "ebook",
+        "file_format": "PDF"
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "year": 2003,
+        "book_type": "ebook",
+        "file_format": "PDF"
+    },
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "year": 2007,
+        "book_type": "printed book"
+    },
+    {
+        "title": "And the Mountains Echoed",
+        "author": "Khaled Hosseini",
+        "year": 2013,
+        "book_type": "ebook",
+        "file_format": "EPUB"
+    },
+    {
+        "title": "Les Miserables",
+        "author": "Victor Hugo",
+        "year": 1862,
+        "book_type": "printed book"
+    },
+    {
+        "title": "საუბრები ფილოსოფიაზე",
+        "author": "მერაბ მამარდაშვილი",
+        "year": 2015,
+        "book_type": "ebook",
+        "file_format": "EPUB"
+    }
+]
